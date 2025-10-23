@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xandreiy
+- 👋 Hi, I’m @andrwz
 - 👀 I’m interested in coding an stuff :)
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
