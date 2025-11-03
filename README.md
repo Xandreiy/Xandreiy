@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email: andreicanuta2@gmail.com
-- Follow me on Instagram: @xandreiy_24 
+- Follow me on Instagram: @andreiy.24 
 
 <!---
 Xandreiy/Xandreiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
