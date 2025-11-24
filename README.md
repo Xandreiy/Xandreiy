@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 👋 Hi, I’m @andrwz<br>- 👀 I’m interested in coding an stuff :)<br>- 🌱 I’m currently learning Python language<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me via email: andreicanuta2@gmail.com<br>- Follow me on Instagram: @andreiy.24 
+- 👋 Hi, I’m @andrwz<br>
+- 👀 I’m interested in coding an stuff :)<br>
+- 🌱 I’m currently learning Python language<br>
+- 💞️ I’m looking to collaborate on ...<br>
+- 📫 How to reach me via email: andreicanuta2@gmail.com<br>
+- Follow me on Instagram: @andreiy.24 
 
 
 ## 🌐 Socials:
